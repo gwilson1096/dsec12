@@ -27,8 +27,8 @@
       <meta name="expires" content="never">
       <meta property="og:site_name" content="SIAKTOTO">
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="canonical" href="https://risa.fr/" />
-      <link rel="alternate" hreflang="id" href="https://risa.fr/" />
+      <link rel="canonical" href="https://www.risa.fr/" />
+      <link rel="alternate" hreflang="id" href="https://www.risa.fr/" />
       <link rel="amphtml" href="https://dumai.sgp1.cdn.digitaloceanspaces.com/amp-risa.html">
       <link rel="icon" href="https://imgur.com/Q9oUY4s.jpg" />
       <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
@@ -156,7 +156,7 @@
             content: " (" attr(href) ")";
           }
     
-          a[href^="https://risa.fr/"]:after,
+          a[href^="https://www.risa.fr/"]:after,
           a[href^="javascript:"]:after {
             content: "";
           }
@@ -1641,7 +1641,7 @@
             <div class="header_top">
               <div class="col-md-2">
                 <div class="logo_img">
-                  <a href="https://risa.fr/">
+                  <a href="https://www.risa.fr/">
                     <amp-img src="https://imgur.com/EfNvCDQ.jpg" width="330" height="80"
                       alt="siaktoto"></amp-img>
                   </a>
@@ -1682,7 +1682,7 @@
                 <h3 class="wp-block-heading">SIAKTOTO - SIAK TOTO - LINK SIAKTOTO - LINK ALTERNATIF SIAKTOTO
                 </h3>
                 <hr>
-		<p style="text-align: justify;">Selamat datang di situs <a href="https://risa.fr/">SIAKTOTO</a> merupakan link resmi bermain game online terbaik yang menyediakan beragam pilihan game dari provider ternamayang sudah bersertifikasi PAGCOR, selain itu juga menyediakan banyak bonus menarik yang dapat diclaim setiap hari tanpa batas. </p>
+		<p style="text-align: justify;">Selamat datang di situs <a href="https://www.risa.fr/">SIAKTOTO</a> merupakan link resmi bermain game online terbaik yang menyediakan beragam pilihan game dari provider ternamayang sudah bersertifikasi PAGCOR, selain itu juga menyediakan banyak bonus menarik yang dapat diclaim setiap hari tanpa batas. </p>
               </div>
             </div>
           </div>
@@ -1695,8 +1695,8 @@
         <div class="row"></div>
         <div class="footer_bottom fourth-bg">
           <!-- Keep Footer Credit Links Intact -->
-          <p>&copy; <a href="https://risa.fr/">SIAKTOTO</a> .18+ From SIAK TOTO</p>
-          <a href="https://risa.fr/" class="backtop"> ^ </a>
+          <p>&copy; <a href="https://www.risa.fr/">SIAKTOTO</a> .18+ From SIAK TOTO</p>
+          <a href="https://www.risa.fr/" class="backtop"> ^ </a>
         </div>
       </footer>
     
