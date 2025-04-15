@@ -14,7 +14,7 @@
   <link rel="shortcut icon" href="https://imgur.com/Q9oUY4s.jpg" />
   <link rel="apple-touch-icon-precomposed" href="https://imgur.com/Q9oUY4s.jpg" />
   <link rel="amphtml" href="https://dumai.sgp1.cdn.digitaloceanspaces.com/naikdong.html">
-
+  <meta name="google-site-verification" content="nyYJtDFF4kiufFleqOCIwfmaYlTWp__LUu8kI4Wi10E" />
   <link rel="canonical" href="https://simorblog.com/" />
   <meta property="og:site_name" content="SIAKTOTO" />
   <meta property="og:title"
